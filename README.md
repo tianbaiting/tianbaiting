@@ -1,6 +1,6 @@
-Hi there! 👋 I'm TianBaiting, a student based in Sichuan University.
+Hi there! 👋 I'm TianBaiting, a student based in Tsinghua University.
 
-I'm passionate about [what you're passionate about], and I love using technology to solve real-world problems. On my GitHub, you'll find a variety of projects that showcase my skills and interests.
+I'm passionate about symmertry energy, and I love using technology to solve real-world problems. On my GitHub, you'll find a variety of projects that showcase my skills and interests.
 
 I'm particularly interested in passionate about applying machine learning techniques to the field of nuclear physics, and I'm always eager to learn more about it. I'm also a big fan of open source software, and I believe that collaboration is key to creating great software.
 
