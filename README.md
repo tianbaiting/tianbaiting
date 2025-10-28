@@ -21,6 +21,10 @@ Feel free to check out my repositories and get in touch if you'd like to chat!
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tianbaiting&theme=radical)](https://git.io/streak-stats)
+
+
+
 
 <!---
 tianbaiting/tianbaiting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
