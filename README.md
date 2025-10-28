@@ -1,3 +1,9 @@
+
+Hi there! 👋 I'm TianBaiting, a student based in Tsinghua University.
+When I'm not coding, you can usually find me by tianbaiting@gmail.com or tbt23@tsinghua.org.cn .
+
+Feel free to check out my repositories and get in touch if you'd like to chat! 
+
 ### 📊 我的 GitHub 统计 & 技术栈分布
 
 <div align="center">
