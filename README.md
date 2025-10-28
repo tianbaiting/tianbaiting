@@ -17,12 +17,7 @@ Feel free to check out my repositories and get in touch if you'd like to chat!
 
 ### 🗓️ 编码连击记录
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tianbaiting&theme=radical)](https://git.io/streak-stats)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tianbaiting&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tianbaiting)](https://git.io/streak-stats)
 
 
 
