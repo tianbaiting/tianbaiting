@@ -1,6 +1,6 @@
 
-Hi there! 👋 I'm TianBaiting, a student based in Tsinghua University.
-When I'm not coding, you can usually find me by tianbaiting@gmail.com or tbt23@tsinghua.org.cn .
+Hi there! 👋 I'm TianBaiting, a physics candidate based at Tsinghua University.
+When I'm not coding, you can usually find me at tianbaiting@gmail.com or tbt23@tsinghua.org.cn.
 
 Feel free to check out my repositories and get in touch if you'd like to chat! 
 
